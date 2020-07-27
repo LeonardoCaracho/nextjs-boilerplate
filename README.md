@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/img/hero-illustration.svg" atl="Um desenvolvedor caminhando e uma tela com código e também escrito a palavra Next.JS" />
+  <img height="200" src="./public/img/hero-illustration.svg" atl="Um desenvolvedor caminhando e uma tela com código e também escrito a palavra Next.JS" />
 </p>
 
 # NextJS Boilerplate
