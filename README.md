@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <img src=".github/logo-gh.svg" atl="React Avançado" />
+</h1>
+
+<p align="center">
+  <img src=".github/hero-illustration.svg" atl="Um desenvolvedor caminhando e uma tela com código e também escrito a palavra Next.JS" />
+</p>
+
+# NextJS Boilerplate
 
 #### What is inside?
 
@@ -24,21 +32,28 @@ yarn
 yarn dev
 ```
 
-#### Commands
+#### Use as template
 
-- `dev`: runs your application on `localhost:3000`
+```bash
+npx create-next-app -e https://github.com/leonardocaracho/nextjs-boilerplate new-project
+```
+
+# or
+
+yarn create next-app -e https://github.com/leonardocaracho/nextjs-boilerplate new-project
+```
+
+## Commands
+
+- `start`: runs your application on `localhost:3000`
 - `build`: creates the production build version
-- `start`: starts a simple server with the build production code
+- `serve`: starts a simple server with the build production code
 - `lint`: runs the linter in all components and pages
 - `test`: runs jest to test all components and pages
 - `test:watch`: runs jest in watch mode
 - `storybook`: runs storybook on `localhost:6006`
-- `build-storybook`: create the build version of storybook
+- `storybook:build`: create the build version of storybook
 
-#### Use as template
-
-```bash
-npx create-next-app -e https://github.com/leonardocaracho/nextjs-boilerplate
-```
+---
 
 [How it was built](https://github.com/leonardocaracho/nextjs-boilerplate/blob/master/HOW_IT_WAS_MADE.md)
