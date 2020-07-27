@@ -1,9 +1,5 @@
-<h1 align="center">
-  <img src=".github/logo-gh.svg" atl="React Avançado" />
-</h1>
-
 <p align="center">
-  <img src=".github/hero-illustration.svg" atl="Um desenvolvedor caminhando e uma tela com código e também escrito a palavra Next.JS" />
+  <img src="./public/img/hero-illustration.svg" atl="Um desenvolvedor caminhando e uma tela com código e também escrito a palavra Next.JS" />
 </p>
 
 # NextJS Boilerplate
@@ -38,8 +34,9 @@ yarn dev
 npx create-next-app -e https://github.com/leonardocaracho/nextjs-boilerplate new-project
 ```
 
-# or
+#### or
 
+```bash
 yarn create next-app -e https://github.com/leonardocaracho/nextjs-boilerplate new-project
 ```
 
